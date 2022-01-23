@@ -67,3 +67,4 @@ struct MC1
 MS triada(int inp[]);
 MC1 any_duad(MS s);
 void print(MC1 s);
+void printMatrix(int inp[]);
