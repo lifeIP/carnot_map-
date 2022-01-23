@@ -9,5 +9,5 @@ int main() {
 		std::cin >> inp[i];
 	}
 	print(any_duad(triada(inp)));
-
+	printMatrix(inp);
 }
